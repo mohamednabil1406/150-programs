@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="222f6785-a04e-49c2-9d4f-09300e9d75ed" name="Changes" comment="sum of digit in  number">
-      <change afterPath="$PROJECT_DIR$/sum of even digit.py" afterDir="false" />
+    <list default="true" id="222f6785-a04e-49c2-9d4f-09300e9d75ed" name="Changes" comment="sum of odd digit in  number">
+      <change afterPath="$PROJECT_DIR$/Reverse number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrange the number in Ascending order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrange the odd sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/is pallindrome number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/magic number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stepping missing number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two digit subractions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,18 +29,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "mohamednabil1406"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mohamednabil1406&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/mohamednabil1406/150-programs.git",
-    "accountId": "15bb0c16-cc08-4dcf-aab9-63abeae48906"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mohamednabil1406/150-programs.git&quot;,
+    &quot;accountId&quot;: &quot;15bb0c16-cc08-4dcf-aab9-63abeae48906&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -48,28 +54,36 @@
   "keyToString": {
     "Python.Factorial number.executor": "Debug",
     "Python.Return last digit.executor": "Debug",
+    "Python.Reverse number.executor": "Debug",
+    "Python.arrange the number in Ascending order.executor": "Debug",
+    "Python.arrange the odd sequence.executor": "Debug",
     "Python.count even and odd.executor": "Run",
     "Python.count the all digit.executor": "Run",
     "Python.count the prime numbers.executor": "Debug",
+    "Python.is pallindrome number.executor": "Debug",
     "Python.isEven.executor": "Debug",
     "Python.isODD.executor": "Debug",
     "Python.isprime.executor": "Debug",
+    "Python.magic number.executor": "Debug",
     "Python.n exact multiple of m.executor": "Debug",
     "Python.non reapeted digit  count.executor": "Debug",
     "Python.nth fibonnaci series.executor": "Debug",
     "Python.nth prime.executor": "Debug",
     "Python.return second last digit.executor": "Debug",
+    "Python.stepping missing number.executor": "Debug",
     "Python.sum of all digit in number.executor": "Debug",
     "Python.sum of even digit.executor": "Run",
     "Python.sum of last two digit.executor": "Debug",
+    "Python.sum of odd numbers in num.executor": "Debug",
+    "Python.two digit subractions.executor": "Debug",
     "Python.unique digit count.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.sum of odd numbers in num">
-    <configuration name="non reapeted digit  count" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.stepping missing number">
+    <configuration name="Reverse number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="150problemsolving" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -82,7 +96,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/non reapeted digit  count.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Reverse number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sum of all digit in number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="arrange the number in Ascending order" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="150problemsolving" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,7 +118,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sum of all digit in number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arrange the number in Ascending order.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sum of even digit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="arrange the odd sequence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="150problemsolving" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -126,7 +140,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sum of even digit.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arrange the odd sequence.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,7 +149,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sum of odd numbers in num" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="stepping missing number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="150problemsolving" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,7 +162,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sum of odd numbers in num.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stepping missing number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,7 +171,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="unique digit count" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="two digit subractions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="150problemsolving" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -170,7 +184,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unique digit count.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/two digit subractions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,11 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.sum of odd numbers in num" />
-        <item itemvalue="Python.sum of even digit" />
-        <item itemvalue="Python.sum of all digit in number" />
-        <item itemvalue="Python.non reapeted digit  count" />
-        <item itemvalue="Python.unique digit count" />
+        <item itemvalue="Python.stepping missing number" />
+        <item itemvalue="Python.arrange the number in Ascending order" />
+        <item itemvalue="Python.Reverse number" />
+        <item itemvalue="Python.arrange the odd sequence" />
+        <item itemvalue="Python.two digit subractions" />
       </list>
     </recent_temporary>
   </component>
@@ -221,12 +235,38 @@
       <option name="project" value="LOCAL" />
       <updated>1754201833003</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="sum of even digit in  number">
+      <option name="closed" value="true" />
+      <created>1754202477768</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1754202477768</updated>
+    </task>
+    <task id="LOCAL-00004" summary="sum of odd digit in  number">
+      <option name="closed" value="true" />
+      <created>1754202487943</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1754202487943</updated>
+    </task>
+    <task id="LOCAL-00005" summary="sum of odd digit in  number">
+      <option name="closed" value="true" />
+      <created>1754202522960</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1754202522960</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new" />
     <MESSAGE value="sum of digit in  number" />
-    <option name="LAST_COMMIT_MESSAGE" value="sum of digit in  number" />
+    <MESSAGE value="sum of even digit in  number" />
+    <MESSAGE value="sum of odd digit in  number" />
+    <option name="LAST_COMMIT_MESSAGE" value="sum of odd digit in  number" />
   </component>
 </project>
