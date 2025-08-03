@@ -4,27 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="222f6785-a04e-49c2-9d4f-09300e9d75ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/150problemsolving.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factorial number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Return last digit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/count even and odd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/count the all digit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/count the prime numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isEven.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isODD.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isprime.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n exact multiple of m.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/non reapeted digit  count.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nth fibonnaci series.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nth prime.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/return second last digit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sum of last two digit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unique digit count.py" afterDir="false" />
+    <list default="true" id="222f6785-a04e-49c2-9d4f-09300e9d75ed" name="Changes" comment="sum of digit in  number">
+      <change afterPath="$PROJECT_DIR$/sum of even digit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "mohamednabil1406"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/mohamednabil1406/150-programs.git",
+    "accountId": "15bb0c16-cc08-4dcf-aab9-63abeae48906"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -65,6 +59,8 @@
     "Python.nth fibonnaci series.executor": "Debug",
     "Python.nth prime.executor": "Debug",
     "Python.return second last digit.executor": "Debug",
+    "Python.sum of all digit in number.executor": "Debug",
+    "Python.sum of even digit.executor": "Run",
     "Python.sum of last two digit.executor": "Debug",
     "Python.unique digit count.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -72,51 +68,7 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.non reapeted digit  count">
-    <configuration name="count the all digit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="150problemsolving" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/count the all digit.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="count the prime numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="150problemsolving" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/count the prime numbers.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.sum of odd numbers in num">
     <configuration name="non reapeted digit  count" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="150problemsolving" />
       <option name="ENV_FILES" value="" />
@@ -139,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="nth prime" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sum of all digit in number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="150problemsolving" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,7 +104,51 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nth prime.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sum of all digit in number.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sum of even digit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="150problemsolving" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sum of even digit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sum of odd numbers in num" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="150problemsolving" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sum of odd numbers in num.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sum of odd numbers in num" />
+        <item itemvalue="Python.sum of even digit" />
+        <item itemvalue="Python.sum of all digit in number" />
         <item itemvalue="Python.non reapeted digit  count" />
         <item itemvalue="Python.unique digit count" />
-        <item itemvalue="Python.count the all digit" />
-        <item itemvalue="Python.count the prime numbers" />
-        <item itemvalue="Python.nth prime" />
       </list>
     </recent_temporary>
   </component>
@@ -209,6 +205,28 @@
       <option name="presentableId" value="Default" />
       <updated>1754056866715</updated>
     </task>
+    <task id="LOCAL-00001" summary="new">
+      <option name="closed" value="true" />
+      <created>1754148862333</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1754148862333</updated>
+    </task>
+    <task id="LOCAL-00002" summary="sum of digit in  number">
+      <option name="closed" value="true" />
+      <created>1754201833003</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1754201833003</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new" />
+    <MESSAGE value="sum of digit in  number" />
+    <option name="LAST_COMMIT_MESSAGE" value="sum of digit in  number" />
   </component>
 </project>
