@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="222f6785-a04e-49c2-9d4f-09300e9d75ed" name="Changes" comment="sum of odd digit in  number">
-      <change afterPath="$PROJECT_DIR$/Reverse number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrange the number in Ascending order.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrange the odd sequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/is pallindrome number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magic number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stepping missing number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/two digit subractions.py" afterDir="false" />
+    <list default="true" id="222f6785-a04e-49c2-9d4f-09300e9d75ed" name="Changes" comment="new">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,10 +46,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Factorial number.executor": "Debug",
+    "Python.Find Second largest in Array.executor": "Run",
     "Python.Return last digit.executor": "Debug",
     "Python.Reverse number.executor": "Debug",
     "Python.arrange the number in Ascending order.executor": "Debug",
-    "Python.arrange the odd sequence.executor": "Debug",
+    "Python.arrange the odd sequence.executor": "Run",
     "Python.count even and odd.executor": "Run",
     "Python.count the all digit.executor": "Run",
     "Python.count the prime numbers.executor": "Debug",
@@ -65,6 +59,7 @@
     "Python.isODD.executor": "Debug",
     "Python.isprime.executor": "Debug",
     "Python.magic number.executor": "Debug",
+    "Python.missing  number.executor": "Run",
     "Python.n exact multiple of m.executor": "Debug",
     "Python.non reapeted digit  count.executor": "Debug",
     "Python.nth fibonnaci series.executor": "Debug",
@@ -82,7 +77,12 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.stepping missing number">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mmyde\PycharmProjects\150problemsolving\array" />
+    </key>
+  </component>
+  <component name="RunManager">
     <configuration name="Reverse number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="150problemsolving" />
       <option name="ENV_FILES" value="" />
@@ -195,10 +195,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.stepping missing number" />
-        <item itemvalue="Python.arrange the number in Ascending order" />
-        <item itemvalue="Python.Reverse number" />
         <item itemvalue="Python.arrange the odd sequence" />
+        <item itemvalue="Python.arrange the number in Ascending order" />
+        <item itemvalue="Python.stepping missing number" />
+        <item itemvalue="Python.Reverse number" />
         <item itemvalue="Python.two digit subractions" />
       </list>
     </recent_temporary>
@@ -259,14 +259,46 @@
       <option name="project" value="LOCAL" />
       <updated>1754202522960</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="new">
+      <option name="closed" value="true" />
+      <created>1754233158357</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1754233158357</updated>
+    </task>
+    <task id="LOCAL-00007" summary="new">
+      <option name="closed" value="true" />
+      <created>1755335694902</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1755335694902</updated>
+    </task>
+    <task id="LOCAL-00008" summary="new">
+      <option name="closed" value="true" />
+      <created>1755336166031</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1755336166031</updated>
+    </task>
+    <task id="LOCAL-00009" summary="new">
+      <option name="closed" value="true" />
+      <created>1755336395793</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1755336395793</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="new" />
     <MESSAGE value="sum of digit in  number" />
     <MESSAGE value="sum of even digit in  number" />
     <MESSAGE value="sum of odd digit in  number" />
-    <option name="LAST_COMMIT_MESSAGE" value="sum of odd digit in  number" />
+    <MESSAGE value="new" />
+    <option name="LAST_COMMIT_MESSAGE" value="new" />
   </component>
 </project>
