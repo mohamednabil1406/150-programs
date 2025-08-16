@@ -13,5 +13,5 @@ def second_large(arr):
     if second==-99999999:
             return None
     return second
-arr=[12,35,1,10,34,1]
+arr=[12,35,1,10,34,1]#exmaple
 print("the second laregst",second_large(arr))
