@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="222f6785-a04e-49c2-9d4f-09300e9d75ed" name="Changes" comment="new">
+    <list default="true" id="222f6785-a04e-49c2-9d4f-09300e9d75ed" name="Changes" comment="Merge remote-tracking branch 'origin/master'">
+      <change afterPath="$PROJECT_DIR$/array/FrequencyCharacter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +48,8 @@
   "keyToString": {
     "Python.Factorial number.executor": "Debug",
     "Python.Find Second largest in Array.executor": "Run",
+    "Python.FrequencyCharacter.executor": "Run",
+    "Python.RemoveAllDupliacates.executor": "Run",
     "Python.Return last digit.executor": "Debug",
     "Python.Reverse number.executor": "Debug",
     "Python.arrange the number in Ascending order.executor": "Debug",
@@ -82,7 +85,29 @@
       <recent name="C:\Users\mmyde\PycharmProjects\150problemsolving\array" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.FrequencyCharacter">
+    <configuration name="FrequencyCharacter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="150problemsolving" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/array" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/array/FrequencyCharacter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Reverse number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="150problemsolving" />
       <option name="ENV_FILES" value="" />
@@ -171,35 +196,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="two digit subractions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="150problemsolving" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/two digit subractions.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.FrequencyCharacter" />
         <item itemvalue="Python.arrange the odd sequence" />
         <item itemvalue="Python.arrange the number in Ascending order" />
         <item itemvalue="Python.stepping missing number" />
         <item itemvalue="Python.Reverse number" />
-        <item itemvalue="Python.two digit subractions" />
       </list>
     </recent_temporary>
   </component>
@@ -291,14 +294,50 @@
       <option name="project" value="LOCAL" />
       <updated>1755336395793</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="new">
+      <option name="closed" value="true" />
+      <created>1755337001312</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1755337001312</updated>
+    </task>
+    <task id="LOCAL-00011" summary="remove dupliactes">
+      <option name="closed" value="true" />
+      <created>1755337025086</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1755337025086</updated>
+    </task>
+    <task id="LOCAL-00012" summary="second largest">
+      <option name="closed" value="true" />
+      <created>1755337097375</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1755337097375</updated>
+    </task>
+    <task id="LOCAL-00013" summary="second largest">
+      <option name="closed" value="true" />
+      <created>1755337114439</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1755337114439</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sum of digit in  number" />
     <MESSAGE value="sum of even digit in  number" />
     <MESSAGE value="sum of odd digit in  number" />
+    <MESSAGE value="Second largest" />
+    <MESSAGE value="remove dupliactes" />
+    <MESSAGE value="second largest" />
     <MESSAGE value="new" />
-    <option name="LAST_COMMIT_MESSAGE" value="new" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
   </component>
 </project>
