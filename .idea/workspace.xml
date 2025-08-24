@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="222f6785-a04e-49c2-9d4f-09300e9d75ed" name="Changes" comment="Merge remote-tracking branch 'origin/master'">
-      <change afterPath="$PROJECT_DIR$/array/FrequencyCharacter.py" afterDir="false" />
+    <list default="true" id="222f6785-a04e-49c2-9d4f-09300e9d75ed" name="Changes" comment="new">
+      <change afterPath="$PROJECT_DIR$/array/Majority Element in Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/Most Frequent character.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,17 +47,28 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.2d transpose Array.executor": "Run",
+    "Python.Delete Array.executor": "Run",
     "Python.Factorial number.executor": "Debug",
     "Python.Find Second largest in Array.executor": "Run",
+    "Python.Find distinct element.executor": "Run",
+    "Python.Find middle element array.executor": "Run",
     "Python.FrequencyCharacter.executor": "Run",
+    "Python.Frequuency Character.executor": "Run",
+    "Python.Majority Element in Array.executor": "Run",
+    "Python.Most Frequent character.executor": "Run",
     "Python.RemoveAllDupliacates.executor": "Run",
     "Python.Return last digit.executor": "Debug",
     "Python.Reverse number.executor": "Debug",
+    "Python.Two Sum array.executor": "Run",
     "Python.arrange the number in Ascending order.executor": "Debug",
     "Python.arrange the odd sequence.executor": "Run",
+    "Python.common element in array.executor": "Run",
     "Python.count even and odd.executor": "Run",
     "Python.count the all digit.executor": "Run",
     "Python.count the prime numbers.executor": "Debug",
+    "Python.if two array or equal.executor": "Run",
+    "Python.insert array.executor": "Run",
     "Python.is pallindrome number.executor": "Debug",
     "Python.isEven.executor": "Debug",
     "Python.isODD.executor": "Debug",
@@ -73,6 +85,7 @@
     "Python.sum of even digit.executor": "Run",
     "Python.sum of last two digit.executor": "Debug",
     "Python.sum of odd numbers in num.executor": "Debug",
+    "Python.transpose matrix.executor": "Run",
     "Python.two digit subractions.executor": "Debug",
     "Python.unique digit count.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -85,7 +98,51 @@
       <recent name="C:\Users\mmyde\PycharmProjects\150problemsolving\array" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.FrequencyCharacter">
+  <component name="RunManager">
+    <configuration name="Delete Array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="150problemsolving" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/array" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/array/Delete Array.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Find distinct element" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="150problemsolving" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/array" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/array/Find distinct element.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="FrequencyCharacter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="150problemsolving" />
       <option name="ENV_FILES" value="" />
@@ -100,50 +157,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/array/FrequencyCharacter.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Reverse number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="150problemsolving" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Reverse number.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="arrange the number in Ascending order" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="150problemsolving" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arrange the number in Ascending order.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,7 +187,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="stepping missing number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="if two array or equal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="150problemsolving" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -183,11 +196,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/array" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stepping missing number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/array/if two array or equal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,9 +213,9 @@
       <list>
         <item itemvalue="Python.FrequencyCharacter" />
         <item itemvalue="Python.arrange the odd sequence" />
-        <item itemvalue="Python.arrange the number in Ascending order" />
-        <item itemvalue="Python.stepping missing number" />
-        <item itemvalue="Python.Reverse number" />
+        <item itemvalue="Python.if two array or equal" />
+        <item itemvalue="Python.Delete Array" />
+        <item itemvalue="Python.Find distinct element" />
       </list>
     </recent_temporary>
   </component>
@@ -326,7 +339,63 @@
       <option name="project" value="LOCAL" />
       <updated>1755337114439</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1755520640990</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1755520640990</updated>
+    </task>
+    <task id="LOCAL-00015" summary="new">
+      <option name="closed" value="true" />
+      <created>1755521415210</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1755521415210</updated>
+    </task>
+    <task id="LOCAL-00016" summary="new">
+      <option name="closed" value="true" />
+      <created>1755522061912</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1755522061912</updated>
+    </task>
+    <task id="LOCAL-00017" summary="new">
+      <option name="closed" value="true" />
+      <created>1755522429363</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1755522429363</updated>
+    </task>
+    <task id="LOCAL-00018" summary="new">
+      <option name="closed" value="true" />
+      <created>1755522436730</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1755522436730</updated>
+    </task>
+    <task id="LOCAL-00019" summary="new">
+      <option name="closed" value="true" />
+      <created>1755533082979</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1755533082979</updated>
+    </task>
+    <task id="LOCAL-00020" summary="new">
+      <option name="closed" value="true" />
+      <created>1756050897551</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1756050897551</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -336,8 +405,8 @@
     <MESSAGE value="Second largest" />
     <MESSAGE value="remove dupliactes" />
     <MESSAGE value="second largest" />
-    <MESSAGE value="new" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
+    <MESSAGE value="new" />
+    <option name="LAST_COMMIT_MESSAGE" value="new" />
   </component>
 </project>
