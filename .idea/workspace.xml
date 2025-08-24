@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="222f6785-a04e-49c2-9d4f-09300e9d75ed" name="Changes" comment="new">
-      <change afterPath="$PROJECT_DIR$/array/Majority Element in Array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array/Most Frequent character.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/Adding number from string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/String Encoding.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/validation identifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/Strings/validation identifier.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +49,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.2d transpose Array.executor": "Run",
+    "Python.Adding number from string.executor": "Run",
     "Python.Delete Array.executor": "Run",
     "Python.Factorial number.executor": "Debug",
     "Python.Find Second largest in Array.executor": "Run",
@@ -88,6 +90,7 @@
     "Python.transpose matrix.executor": "Run",
     "Python.two digit subractions.executor": "Debug",
     "Python.unique digit count.executor": "Debug",
+    "Python.validation identifier.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
@@ -395,7 +398,23 @@
       <option name="project" value="LOCAL" />
       <updated>1756050897551</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="new">
+      <option name="closed" value="true" />
+      <created>1756054829506</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1756054829506</updated>
+    </task>
+    <task id="LOCAL-00022" summary="new">
+      <option name="closed" value="true" />
+      <created>1756054916434</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1756054916434</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
