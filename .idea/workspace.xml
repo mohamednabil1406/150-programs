@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="222f6785-a04e-49c2-9d4f-09300e9d75ed" name="Changes" comment="new">
-      <change afterPath="$PROJECT_DIR$/Strings/Adding number from string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/String Encoding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/Anargams.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/Highest Frequency Character.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/Pallindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/Remove Pallindrome in word.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/Reverse the Sentence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/longest pallindrome.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Strings/validation identifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/Strings/validation identifier.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +53,7 @@
   "keyToString": {
     "Python.2d transpose Array.executor": "Run",
     "Python.Adding number from string.executor": "Run",
+    "Python.Anargams.executor": "Run",
     "Python.Delete Array.executor": "Run",
     "Python.Factorial number.executor": "Debug",
     "Python.Find Second largest in Array.executor": "Run",
@@ -57,11 +61,15 @@
     "Python.Find middle element array.executor": "Run",
     "Python.FrequencyCharacter.executor": "Run",
     "Python.Frequuency Character.executor": "Run",
+    "Python.Highest Frequency Character.executor": "Run",
     "Python.Majority Element in Array.executor": "Run",
     "Python.Most Frequent character.executor": "Run",
+    "Python.Remove Pallindrome in word.executor": "Run",
     "Python.RemoveAllDupliacates.executor": "Run",
     "Python.Return last digit.executor": "Debug",
     "Python.Reverse number.executor": "Debug",
+    "Python.Reverse the Sentence.executor": "Run",
+    "Python.String Encoding.executor": "Run",
     "Python.Two Sum array.executor": "Run",
     "Python.arrange the number in Ascending order.executor": "Debug",
     "Python.arrange the odd sequence.executor": "Run",
@@ -414,7 +422,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756054916434</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="new">
+      <option name="closed" value="true" />
+      <created>1756055656847</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1756055656847</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
