@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="222f6785-a04e-49c2-9d4f-09300e9d75ed" name="Changes" comment="new">
-      <change afterPath="$PROJECT_DIR$/Strings/Anargams.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/Highest Frequency Character.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/Pallindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/Remove Pallindrome in word.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/Reverse the Sentence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/longest pallindrome.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="222f6785-a04e-49c2-9d4f-09300e9d75ed" name="Changes" comment="new" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,6 +46,7 @@
     "Python.2d transpose Array.executor": "Run",
     "Python.Adding number from string.executor": "Run",
     "Python.Anargams.executor": "Run",
+    "Python.Count vowels digit consont specila.executor": "Run",
     "Python.Delete Array.executor": "Run",
     "Python.Factorial number.executor": "Debug",
     "Python.Find Second largest in Array.executor": "Run",
@@ -64,6 +57,7 @@
     "Python.Highest Frequency Character.executor": "Run",
     "Python.Majority Element in Array.executor": "Run",
     "Python.Most Frequent character.executor": "Run",
+    "Python.Pallindrome.executor": "Run",
     "Python.Remove Pallindrome in word.executor": "Run",
     "Python.RemoveAllDupliacates.executor": "Run",
     "Python.Return last digit.executor": "Debug",
@@ -430,7 +424,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756055656847</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="new">
+      <option name="closed" value="true" />
+      <created>1756057165140</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1756057165140</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

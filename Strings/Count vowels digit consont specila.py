@@ -15,7 +15,6 @@ def count_all(s):
 
     return v_count, c_count, d_count, s_count
 
-
 # Example
 text = "Hello World! 123 @Python"
 v, c, d, sp = count_all(text)
