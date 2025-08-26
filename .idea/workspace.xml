@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="222f6785-a04e-49c2-9d4f-09300e9d75ed" name="Changes" comment="new">
-      <change afterPath="$PROJECT_DIR$/Strings/FizzBuzz program.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/remove duplicate in string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matrix/Addition matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matrix/Rotate Matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matrix/Spiral matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matrix/Sum of diagonals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matrix/Transpose matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matrix/create Matrix.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,70 +49,77 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.2d transpose Array.executor": "Run",
-    "Python.Adding number from string.executor": "Run",
-    "Python.Anargams.executor": "Run",
-    "Python.Count vowels digit consont specila.executor": "Run",
-    "Python.Delete Array.executor": "Run",
-    "Python.Factorial number.executor": "Debug",
-    "Python.Find Second largest in Array.executor": "Run",
-    "Python.Find distinct element.executor": "Run",
-    "Python.Find middle element array.executor": "Run",
-    "Python.FizzBuzz program.executor": "Run",
-    "Python.FrequencyCharacter.executor": "Run",
-    "Python.Frequuency Character.executor": "Run",
-    "Python.Highest Frequency Character.executor": "Run",
-    "Python.Majority Element in Array.executor": "Run",
-    "Python.Most Frequent character.executor": "Run",
-    "Python.Pallindrome.executor": "Run",
-    "Python.Remove Pallindrome in word.executor": "Run",
-    "Python.RemoveAllDupliacates.executor": "Run",
-    "Python.Return last digit.executor": "Debug",
-    "Python.Reverse number.executor": "Debug",
-    "Python.Reverse the Sentence.executor": "Run",
-    "Python.String Encoding.executor": "Run",
-    "Python.Two Sum array.executor": "Run",
-    "Python.arrange the number in Ascending order.executor": "Debug",
-    "Python.arrange the odd sequence.executor": "Run",
-    "Python.common element in array.executor": "Run",
-    "Python.count even and odd.executor": "Run",
-    "Python.count the all digit.executor": "Run",
-    "Python.count the prime numbers.executor": "Debug",
-    "Python.if two array or equal.executor": "Run",
-    "Python.insert array.executor": "Run",
-    "Python.is pallindrome number.executor": "Debug",
-    "Python.isEven.executor": "Debug",
-    "Python.isODD.executor": "Debug",
-    "Python.isprime.executor": "Debug",
-    "Python.magic number.executor": "Debug",
-    "Python.missing  number.executor": "Run",
-    "Python.n exact multiple of m.executor": "Debug",
-    "Python.non reapeted digit  count.executor": "Debug",
-    "Python.nth fibonnaci series.executor": "Debug",
-    "Python.nth prime.executor": "Debug",
-    "Python.return second last digit.executor": "Debug",
-    "Python.stepping missing number.executor": "Debug",
-    "Python.sum of all digit in number.executor": "Debug",
-    "Python.sum of even digit.executor": "Run",
-    "Python.sum of last two digit.executor": "Debug",
-    "Python.sum of odd numbers in num.executor": "Debug",
-    "Python.transpose matrix.executor": "Run",
-    "Python.two digit subractions.executor": "Debug",
-    "Python.unique digit count.executor": "Debug",
-    "Python.validation identifier.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.2d transpose Array.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Adding number from string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Addition matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Anargams.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Count vowels digit consont specila.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Delete Array.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Factorial number.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Find Second largest in Array.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Find distinct element.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Find middle element array.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FizzBuzz program.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FrequencyCharacter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Frequuency Character.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Highest Frequency Character.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Majority Element in Array.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Most Frequent character.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Pallindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Remove Pallindrome in word.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RemoveAllDupliacates.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Return last digit.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Reverse number.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Reverse the Sentence.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Rotate Matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Spiral matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.String Encoding.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sum of diagonals.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Transpose matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Two Sum array.executor&quot;: &quot;Run&quot;,
+    &quot;Python.arrange the number in Ascending order.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.arrange the odd sequence.executor&quot;: &quot;Run&quot;,
+    &quot;Python.common element in array.executor&quot;: &quot;Run&quot;,
+    &quot;Python.count even and odd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.count the all digit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.count the prime numbers.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.create Matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.if two array or equal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.insert array.executor&quot;: &quot;Run&quot;,
+    &quot;Python.is pallindrome number.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.isEven.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.isODD.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.isprime.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.magic number.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.missing  number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.n exact multiple of m.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.non reapeted digit  count.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.nth fibonnaci series.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.nth prime.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.remove duplicate in string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.return second last digit.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.stepping missing number.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.sum of all digit in number.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.sum of even digit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sum of last two digit.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.sum of odd numbers in num.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.transpose matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.two digit subractions.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.unique digit count.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.validation identifier.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\mmyde\PycharmProjects\150problemsolving\array" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.arrange the odd sequence">
     <configuration name="Delete Array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="150problemsolving" />
       <option name="ENV_FILES" value="" />
@@ -445,7 +456,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756133712343</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="new">
+      <option name="closed" value="true" />
+      <created>1756134245296</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1756134245296</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
